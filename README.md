@@ -9,7 +9,7 @@ Questa è una decompilazione di Pokémon Smeraldo modificata da Cherryello.
 
 Compila la seguente ROM:
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: N/A`
 
 Per settare questa repository, leggi l'[INSTALL.md](INSTALL.md).
 
